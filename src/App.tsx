@@ -61,7 +61,7 @@ function App() {
           <div className="mb-12">
             <div className="mb-8">
               <img 
-                src="https://postimg.cc/N5pgbsVH" 
+                src="https://i.postimg.cc/fRhJzkfB/logo-edvaldo.png" 
                 alt="Edvaldo Roberto Onofre - Advocacia" 
                 className="w-64 h-auto mx-auto"
               />
